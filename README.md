@@ -1,2 +1,33 @@
-# DEVOPS
-my DevOps journey, and let me tell you — it was an exciting, sometimes confusing, but deeply satisfying start. If you're also starting out with DevOps or curious about how to begin, I hope my experience helps you learn (or avoid) a few things.
+# 🚀 DevOps Learning Journey
+
+Welcome to my **DevOps Learning Journey** repository!  
+This repo is a log of my progress, notes, and hands-on practice as I dive deep into the world of DevOps.
+
+---
+
+## 📂 Branch Structure
+
+- `main`: Overview, resources, and roadmap.
+- `weekly-notes`: Contains detailed weekly progress reports and notes.
+
+> ✅ **NOTE**: All weekly notes will be pushed to the `weekly-notes` branch.
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+- 🐧 Linux (Ubuntu/CentOS)
+- 📦 Vagrant & VirtualBox
+- 💻 Git & GitHub
+- ☁️ Cloud Platforms (to be added)
+- 🐳 Docker (to be added)
+- 🔧 CI/CD Tools (Jenkins, GitHub Actions – upcoming)
+- 🛡️ Monitoring & Security (upcoming)
+
+---
+
+## ✍️ How to Use This Repo
+
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/your-username/repo-name.git
